@@ -24,6 +24,6 @@ let package = Package(
             ),
             dependencies: [.target(name: "license-plists-merger")]
         ),
-        .binaryTarget(name: "license-plists-merger", url: "https://github.com/ubiregiinc/LicensePlistsMerger/releases/download/0.3.0/license-plists-merger-macos.artifactbundle.zip", checksum: "cc59121e5b89203697f4e9a620a1988206a09292dd383916fb109e735a1acbcb"),
+        .binaryTarget(name: "license-plists-merger", url: "https://github.com/ubiregiinc/LicensePlistsMerger/releases/download/0.3.1/license-plists-merger-macos.artifactbundle.zip", checksum: "20e77c74c695b9a1f267a14841b3fc2ccdf2b667ae1d545889f6729ea9cd28ce"),
     ]
 )
